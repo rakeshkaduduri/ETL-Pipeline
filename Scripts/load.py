@@ -133,3 +133,4 @@ if __name__ == "__main__":
     staged_csv_path = os.path.join("..", "data", "staged", "titanic_transformed.csv")
     create_table_if_not_exists()  # Ensure table exists
     load_to_supabase(staged_csv_path)
+    

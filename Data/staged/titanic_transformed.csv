@@ -252,7 +252,7 @@ survived,pclass,sex,age,sibsp,parch,fare,embarked,class,who,deck,embark_town,alo
 0,3,male,28.0,0,0,7.25,S,Third,man,Unknown,Southampton,True,1,1,Man
 0,3,female,29.0,1,1,10.4625,S,Third,woman,G,Southampton,False,3,0,Woman
 0,1,male,62.0,0,0,26.55,S,First,man,C,Southampton,True,1,1,Man
-0,3,male,30.0,1,0,16.1,S,Third,man,Unknown,Southampton,False,2,0,Man
+0,3,male,30.0,1,0,16.1,S,Third,man,Unknown,Southampton,False,2,0,Man  
 0,3,female,41.0,0,2,20.2125,S,Third,woman,Unknown,Southampton,False,3,0,Woman
 1,3,female,29.0,0,2,15.2458,C,Third,woman,Unknown,Cherbourg,False,3,0,Woman
 1,1,female,28.0,0,0,79.2,C,First,woman,Unknown,Cherbourg,True,1,1,Woman
